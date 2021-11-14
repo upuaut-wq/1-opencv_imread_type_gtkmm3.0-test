@@ -4,7 +4,7 @@ App Exemplo
 
 
 
-### Observações : Este programa foi feito com objetivo de teste, contém erros.
+### Observações : Este programa foi feito com objetivo de teste.
 
 
 * Foto utilizada - https://uploads.metropoles.com/wp-content/uploads/2017/03/10132333/negras-03.jpg
